@@ -26,29 +26,4 @@ int main()
     }
 
   }
-
-
-
-
-
-    y = x * 5 
-    if(y > 30)
-    {
-        printf("y - \n");
-    }
-    else
-    {
-    printf("i numeri non sono in progressione aritmettica\n");
-    }
-
-
-
-
-    x = 100;
-    while (x > 0) 
-    {
-    printf("%d\n", x);
-    x = x - 2;
-    }
-return (0);
 }
